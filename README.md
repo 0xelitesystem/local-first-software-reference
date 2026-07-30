@@ -15,6 +15,10 @@ A plain-language reference on what local-first software actually means, the arch
 
 Working developers deciding whether to build local-first, and anyone who wants to understand the architecture without wading through academic papers. Everything here comes from shipping real local-first apps: desktop tools, browser tools, and the licensing and AI-integration patterns that go with them. This reference is itself part of an open-source portfolio of client-side tools where every tool runs entirely in the browser.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
